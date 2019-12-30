@@ -1,3 +1,9 @@
+ALUNO: FELIPE CÉSAR GOMES DE ALMEIDA
+JAVA WEB I
+PROFESSOR: RODRIGO FUJIOKA
+
+==========================================================================================================================================DESCRIÇÃO===================================================================================================================================
+
 # Pós graduação em desenvolvimento web
 Código base da disciplina de fundamentos de programação web para disciplinas de pós graduação. 
 Contém conteúdo básico com fundamentos de programação Java web utilizando REST com Maven, JDK11, SpringBoot , SpringData
